@@ -6,5 +6,5 @@ if [ -z $1 ]; then
 fi
 
 cd workspace
-tar -czvf ../builds/ilx-zlib-${1}.tgz ./*
+tar -czvf ../builds/ilx-yubikey-${1}.tgz ./*
 
